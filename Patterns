@@ -1,1 +1,30 @@
+Design patterns are typical solutions to commonly occuring problems in software design.They are like pre made blue prints which you can customize to solve a problem.
+
+You cannot just find a pattern and copy it into your solution.It is not specific piece of code.you have to follow pattern details and implement it to your solution.
+
+Pattern consist of
+
+-> Intent - briefly describes both problem and solution
+-> Motivation - explains problem and solution pattern makes
+-> Structure - shows each of pattern and how theyre related
+-> Code example - example of implementation to easily understand
+
+classification
+
+-> Creational Patterns - provides object recreation mechanisms that increase flexibility and reuse of exisiting code
+-> Structural Patterns - assemble objects and classes into larger structures, while keeping the structures flexible and efficient
+-> Behavioral Patterns - takes care of effective communication and assignment of responsibilities between objects
+
+
+
+1) Factory Method
+
+says define an interface or abstract class for creating an object but let the subclass decide which class to instantiate
+use this when you dont know beforehand the exact types and dependencies of objects your code should work with
+promotes loose coupling
+
+
+
+
+
 
