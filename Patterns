@@ -23,6 +23,19 @@ says define an interface or abstract class for creating an object but let the su
 use this when you dont know beforehand the exact types and dependencies of objects your code should work with
 promotes loose coupling
 
+2) Abstract Factory
+3) Singleton Pattern
+
+4) Builder Pattern
+
+lets you construct complex objects step by step.The pattern allows you to produce diff. types using the same code.
+
+  Ex: creation of phone object
+    req: phone,phonebuilder -> setter methods return object
+ 
+5) Prototype Pattern
+
+lets you copy existing objects without making your code dependent on other classes
 
 
 
